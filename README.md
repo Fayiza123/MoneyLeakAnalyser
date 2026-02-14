@@ -1,7 +1,9 @@
-MONEY LEAK ANALYSER
+   MONEY LEAK ANALYSER
+
 A Money Leak Analyzer analyzes hidden micro-spending patterns and identifies financial leakages from PDF bank statements.
 
 Problem Statement:
+
 Many individuals track large expenses but ignore frequent small-value transactions (₹20–₹50). These micro-transactions accumulate over time and silently reduce savings.
 This project detects and analyzes these "money leaks" automatically from uploaded bank statements.
 
