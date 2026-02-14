@@ -49,22 +49,9 @@ Features
 
  🏗 Architecture 
 
- PDF Upload
-     ↓
-Text Extraction (pdfplumber)
-     ↓
-Transaction Parsing (Regex)
-     ↓
-DataFrame Structuring (Pandas)
-     ↓
-Classification Engine
-     ↓
-Micro-Spending Analysis
-     ↓
-Risk Evaluation
-     ↓
-Streamlit Dashboard Output 
-
+ PDF Upload --> Text Extraction (pdfplumber) --> Transaction Parsing (Regex) --> DataFrame Structuring (Pandas) --> Classification Engine --> Micro-Spending Analysis --> Risk Evaluation --> Streamlit Dashboard Output 
+<img width="1024" height="1536" alt="architecture" src="https://github.com/user-attachments/assets/a3916406-c6d1-46cf-9d20-9bef50bffc12" />
+ 
 
 [Uploading [microspending transactions.csv](https://github.com/user-attachments/files/25309986/microspending.transactions.csv)
 [transactions with categories.csv](https://github.com/user-attachments/files/25309988/transactions.with.categories.csv)
